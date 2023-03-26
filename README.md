@@ -7,6 +7,8 @@
 - /ktbu setR_max <value> : スポーン範囲の設定(半径)を設定
 - /ktbu setMultiply <value> : 打ち出しの初速の大きさを設定
 - /ktbu setPlayerOnly <true/false> : アーマースタンドを飛ばせるのをプレイヤー限定にするかどうかを設定
+- /ktbu info : コマンド一覧を表示
+- /ktbu showConfig : コンフィグの値を表示
 ## コンフィグ
 |  変数 |  説明  |
 | ---- | ---- |
