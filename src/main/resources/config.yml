@@ -1,0 +1,11 @@
+R_max: 5.0
+multiply: 0.5
+player_only: true
+ref_coordinate:
+  ==: org.bukkit.Location
+  world: world
+  x: 152.39347420983688
+  y: 4.0
+  z: 129.44346324582085
+  pitch: -90.0
+  yaw: -100.97095

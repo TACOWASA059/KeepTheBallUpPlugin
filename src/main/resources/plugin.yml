@@ -1,0 +1,7 @@
+name: KeepTheBallUpPlugin
+version: '${project.version}'
+main: com.github.tacowasa059.keeptheballupplugin.KeepTheBallUpPlugin
+api-version: 1.16
+commands:
+  KTBU:
+    description: player
